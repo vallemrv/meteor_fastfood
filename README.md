@@ -5,5 +5,5 @@ Application for fast food business. Control of orders and notifications by email
 
 ## License
 
-This project is licensed under the GNU v3 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL v3 - see the [LICENSE.md](LICENSE.md) file for details
 
